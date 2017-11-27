@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Membership1Advantages" xml:space="preserve">
+    <value>Մասնագետ անդամի արտոնությունները՝</value>
+  </data>
+  <data name="Membership1Adventage1" xml:space="preserve">
+    <value>Իրավունք ունի ընտրելու և գրասենյակ պահելու։</value>
+  </data>
+  <data name="Membership1Adventage2" xml:space="preserve">
+    <value>Կարող է պարբերաբար հաճախել կազմակերպության ժողովներին և շնորհանդեսներին։</value>
+  </data>
+  <data name="Membership1Adventage3" xml:space="preserve">
+    <value>Կարող է հաճախել տարբեր կազմակերպությունների կողմից հովանավորվող կոնֆերանսներին զեղջ վճարներով։</value>
+  </data>
+  <data name="Membership1Adventage4" xml:space="preserve">
+    <value>Ստանում է ժողովների արձանագրությունները և այլ տեղեկություններ։</value>
+  </data>
+  <data name="Membership1Adventage5" xml:space="preserve">
+    <value>Իրավունք ունի ընտրվել ԱՀՀԱ Խորհրդի անդամ։</value>
+  </data>
+  <data name="Membership1Description" xml:space="preserve">
+    <value>Մասնագետ անդամ կարող է դառնալ բժիշկը, հետազոտողը, լիցենզավորված հոգեբանը կամ համապատասխան կրթություն ունեցող, որևէ այլ մասնագետ։ Մասնագետ անդամը իր ժամանակի նշանակալից մասը տրամադրում է Ալցհեյմերի հովանդության բնագավառում կատարող հետազոտություններին։ Այդ աշխատանքներն ուղղված է գլխուղեղի հիվանդության բնագավառում կատարվող հետազոտություններին։ Այդ աշխատանքն ուղղված է գլխուղեղի ֆունկցիայի և վարքագծի փախադարձ կապի ուսումնասիրությանը։ Մասնագետ անդամն աշխատում է բարելավել մարդկանց կյանքի որակը, միևնույն ժամանակ պահպանելով էթիկայի բարձրագույն նորմերը։</value>
+  </data>
+  <data name="Membership1Fee" xml:space="preserve">
+    <value>Տարեկան 5000դրամ</value>
+  </data>
+  <data name="Membership1Title" xml:space="preserve">
+    <value>Մասնագետ անդամ</value>
+  </data>
+  <data name="Membership2Advantages" xml:space="preserve">
+    <value>Խնամակալ/ընտանիքի անդամի արտոնություններ՝</value>
+  </data>
+  <data name="Membership2Adventage1" xml:space="preserve">
+    <value>Կարող է պարբերաբար հաճախել կազմակերպության ժողովներին և շնորհանդեսներին։</value>
+  </data>
+  <data name="Membership2Adventage2" xml:space="preserve">
+    <value>Ստանում է ժողովների արձանագրությունները և այլ տեղեկություններ։</value>
+  </data>
+  <data name="Membership2Adventage3" xml:space="preserve">
+    <value>Կարող է հաճախել տարբեր կազմակերպությունների կողմից հովանավորվող կոնֆերանսներին զեղջ վճարներով։</value>
+  </data>
+  <data name="Membership2Adventage4" xml:space="preserve">
+    <value>Տարին երկու անգամ ստանալ ԱՀՀԱ տարածող տեղեկագրերն ու գրքերը։</value>
+  </data>
+  <data name="Membership2Fee" xml:space="preserve">
+    <value>Տարեկան 2500դրամ</value>
+  </data>
+  <data name="Membership2Title" xml:space="preserve">
+    <value>Խնամակալ/ընտանիքի անդամ</value>
+  </data>
+  <data name="Membership3Advantages" xml:space="preserve">
+    <value>Ուսանող անդամի արտոնություններ՝</value>
+  </data>
+  <data name="Membership3Adventage1" xml:space="preserve">
+    <value>Կարող է պարբերաբար հաճախել կազմակերպության ժողովներին և շնորհանդեսներին։</value>
+  </data>
+  <data name="Membership3Adventage2" xml:space="preserve">
+    <value>Կարող է հաճախել տարբեր կազմակերպությունների կողմից հովանավորվող կոնֆերանսներին զեղջ վճարներով։</value>
+  </data>
+  <data name="Membership3Adventage3" xml:space="preserve">
+    <value>Ստանում է ժողովների արձանագրությունները և այլ տեղեկություններ։</value>
+  </data>
+  <data name="Membership3Adventage4" xml:space="preserve">
+    <value>Իրավունք ունի ընտրվել ԱՀՀԱ Խորհրդի անդամ։</value>
+  </data>
+  <data name="Membership3Adventage5" xml:space="preserve">
+    <value>Ստանում է ԱՀՀԱ անդամի արտոնագիր։</value>
+  </data>
+  <data name="Membership3Description" xml:space="preserve">
+    <value>Ասոցիացիայի ուսանող անդամ կարող է լինել բժշկական,հոգեբանության և գիտության հարակից այլ բնագավառում սովորող, յուրաքանչյուր ուսանող կամ ասպիրանտ, որը հետաքրքրվում է Ալցհեյմերի խնդրով։</value>
+  </data>
+  <data name="Membership3Fee" xml:space="preserve">
+    <value>Տարեկան 1000դրամ</value>
+  </data>
+  <data name="Membership3Title" xml:space="preserve">
+    <value>Ասոցիացիայի ուսանող անդամ</value>
+  </data>
+  <data name="Membership4Description" xml:space="preserve">
+    <value>Անդամության այս տեսակը սահմանափակվում է միայն ԱՀՀԱ ժողովների մասին տեղեկություններ ստանալով։ Նրանք ընտրելու և գրասենյակ պահելու իրավունք չունեն, ինչպես նաև հովանավորվող կոնֆերանսներին մասնակցելու զեղջեր ստանալ։</value>
+  </data>
+  <data name="Membership4Fee" xml:space="preserve">
+    <value>Տարեկան 2000դրամ</value>
+  </data>
+  <data name="Membership4Title" xml:space="preserve">
+    <value>Միայն փոստի ստացում</value>
+  </data>
+  <data name="Paragraph1" xml:space="preserve">
+    <value>Մեր բոլոր ծառայություններից օգտվելու համար կարող եք անդամակցել մեզ։</value>
+  </data>
+  <data name="Paragraph2" xml:space="preserve">
+    <value>Անդամակցության տեսակները</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>Անդամակցություն</value>
+  </data>
+</root>
