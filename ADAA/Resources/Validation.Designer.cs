@@ -176,7 +176,7 @@ namespace ADAA.Resources {
                 return ResourceManager.GetString("RequiredErrorMessage", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
         ///&lt;root&gt;
@@ -196,12 +196,11 @@ namespace ADAA.Resources {
         ///    &lt;resheader name=&quot;resmimetype&quot;&gt;text/microsoft-resx&lt;/resheader&gt;
         ///    &lt;resheader n [rest of string was truncated]&quot;;.
         /// </summary>
-        public static string Validation {
-            get {
-                return ResourceManager.GetString("Validation", resourceCulture);
-            }
+        public static string GetValidation()
+        {
+            return ResourceManager.GetString("Validation", resourceCulture);
         }
-        
+
         /// <summary>
         ///   Looks up a localized string similar to //------------------------------------------------------------------------------
         ///// &lt;auto-generated&gt;

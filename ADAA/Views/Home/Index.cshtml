@@ -1,59 +1,50 @@
-﻿@{
-    ViewBag.Title = "Home Page";
+﻿@using ADAA.Resources
+@{
+    ViewBag.Title = Home.Title;
 }
 
 <header class="masthead">
     <div class="overlay">
         <div class="container">
-            <h1 class="display-1 text-white">One Page Wonder</h1>
-            <h2 class="display-4 text-white">Will Rock Your Socks Off</h2>
+            <h1 class="display-1 text-white">@Home.SloganBig</h1>
+            <h2 class="display-4 text-white">@Home.SloganSmall</h2>
         </div>
     </div>
 </header>
 
 <div class="mt-4 mb-3 font-weight-bold">
-    <p>Our mision is:</p>
+    <p>@Home.MissionListHead</p>
     <ul>
-        <li>Informing about деменции, in particular about Alzheimer's disease</li>
-        <li>Informing about Armenian Associations of Alzheimer's disease </li>
-        <li>To promote patients with деменцией, to their families and trustees</li>
+        <li>@Home.MissionListItem1</li>
+        <li>@Home.MissionListItem2</li>
+        <li>@Home.MissionListItem3</li>
     </ul>
 </div>
 
 <div class="mt-4 mb-3">
-    <p class="font-weight-bold">What is Alzheimer's disease?</p>
+    <p class="font-weight-bold">@Home.Paragraph1</p>
     <p>
-        Alzheimer's disease for the first time has been described in 1906 by German neuropathologist Alois Altsgejmer.
-        Alzheimer's disease is the most widespread reason of dementia. Under the term "dementia" various progressing degenerative
-        brain syndromes which amaze memory, thinking, behavior and emotions are incorporated. Characteristic for dementia is:
+        @Home.Paragraph2
     </p>
     <ul>
-        <li>Loss of memory,</li>
-        <li>Difficulties in a presence of correct words or in understanding of that other people speak,</li>
-        <li>Difficulties in performance routine has put</li>
-        <li>Changes in mood and personal qualities.</li>
+        <li>@Home.AlzheimerListItem1</li>
+        <li>@Home.AlzheimerListItem2</li>
+        <li>@Home.AlzheimerListItem3</li>
+        <li>@Home.AlzheimerListItem4</li>
     </ul>
     <p>
-        Dementia is not a normal component of ageing. It does not know neither social, nor economic, ethnic or geographical borders.
-        Usually it is shown after 40-50 years, but earlier display of disease has been registered in 28 years. Though at each person
-        it is in own way shown dementia, however all these patients are not capable to care of themselves and require the everyday constant help.
+        @Home.Paragraph3
     </p>
     <p>
-        For diagnostics of Alzheimer's disease while there is no test with which help probably correctly to diagnose. Therefore the doctor should
-        exclude all those diseases which result in development of dementia symptoms. Especially those diseases which are exposed to treatment:
-        infections, traumas, tumors, mental infringements. Even at exception of other diseases diagnostics of Alzheimer's disease remains suspected.
-        Authentic diagnostics is possible only microscopic research which is usually carried out after death. Sometimes the given research is carried
-        out among alive people for what take small tests of a brain fabric.
+        @Home.Paragraph4
     </p>
     <p>
-        Alzheimer's disease is intensively studied all over the world, however will pass a lot of time before its final treatment will be found.
-        Therefore patients with dementia and their trustees require the constant practical help and support.
+        @Home.Paragraph5
     </p>
     <p>
-        Today more than 35 million people worldwide have dementia and those numbers will double every 20 years to 65,7 million in 2030 and 115,4
-        million in 2050, according to the World Alzheimer’s Report from Alzheimer’s Disease International.
+        @Home.Paragraph6
     </p>
     <p>
-        According to the international statistics in Armenia it should be totaled approximately 30 thousand patients with dementia.
+        @Home.Paragraph7
     </p>
 </div>

@@ -117,10 +117,68 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AlzheimerListItem1" xml:space="preserve">
+    <value>Loss of memory,</value>
+  </data>
+  <data name="AlzheimerListItem2" xml:space="preserve">
+    <value>Difficulties in a presence of correct words or in understanding of that other people speak,</value>
+  </data>
+  <data name="AlzheimerListItem3" xml:space="preserve">
+    <value>Difficulties in performance routine has put,</value>
+  </data>
+  <data name="AlzheimerListItem4" xml:space="preserve">
+    <value>Changes in mood and personal qualities.</value>
+  </data>
+  <data name="MissionListHead" xml:space="preserve">
+    <value>Our mision is:</value>
+  </data>
+  <data name="MissionListItem1" xml:space="preserve">
+    <value>Informing about деменции, in particular about Alzheimer's disease,</value>
+  </data>
+  <data name="MissionListItem2" xml:space="preserve">
+    <value>Informing about Armenian Associations of Alzheimer's disease,</value>
+  </data>
+  <data name="MissionListItem3" xml:space="preserve">
+    <value>To promote patients with деменцией, to their families and trustees.</value>
+  </data>
+  <data name="Paragraph1" xml:space="preserve">
+    <value>What is Alzheimer's disease?</value>
+  </data>
+  <data name="Paragraph2" xml:space="preserve">
+    <value>Alzheimer's disease for the first time has been described in 1906 by German neuropathologist Alois Altsgejmer.
+        Alzheimer's disease is the most widespread reason of dementia. Under the term "dementia" various progressing degenerative
+        brain syndromes which amaze memory, thinking, behavior and emotions are incorporated. Characteristic for dementia is:</value>
+  </data>
+  <data name="Paragraph3" xml:space="preserve">
+    <value>Dementia is not a normal component of ageing. It does not know neither social, nor economic, ethnic or geographical borders.
+        Usually it is shown after 40-50 years, but earlier display of disease has been registered in 28 years. Though at each person
+        it is in own way shown dementia, however all these patients are not capable to care of themselves and require the everyday constant help.</value>
+  </data>
+  <data name="Paragraph4" xml:space="preserve">
+    <value>For diagnostics of Alzheimer's disease while there is no test with which help probably correctly to diagnose. Therefore the doctor should
+        exclude all those diseases which result in development of dementia symptoms. Especially those diseases which are exposed to treatment:
+        infections, traumas, tumors, mental infringements. Even at exception of other diseases diagnostics of Alzheimer's disease remains suspected.
+        Authentic diagnostics is possible only microscopic research which is usually carried out after death. Sometimes the given research is carried
+        out among alive people for what take small tests of a brain fabric.</value>
+  </data>
+  <data name="Paragraph5" xml:space="preserve">
+    <value>Alzheimer's disease is intensively studied all over the world, however will pass a lot of time before its final treatment will be found.
+        Therefore patients with dementia and their trustees require the constant practical help and support.</value>
+  </data>
+  <data name="Paragraph6" xml:space="preserve">
+    <value>Today more than 35 million people worldwide have dementia and those numbers will double every 20 years to 65,7 million in 2030 and 115,4
+        million in 2050, according to the World Alzheimer’s Report from Alzheimer’s Disease International.</value>
+  </data>
+  <data name="Paragraph7" xml:space="preserve">
+    <value>According to the international statistics in Armenia it should be totaled approximately 30 thousand patients with dementia.</value>
+  </data>
   <data name="SloganBig" xml:space="preserve">
     <value />
   </data>
   <data name="SloganSmall" xml:space="preserve">
     <value />
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>Home</value>
   </data>
 </root>
