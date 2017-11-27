@@ -4,3 +4,9 @@ Bug list:
 2. Main page N/A in armenian
 3. No Error Page
 4. No donation page
+
+ADAA Version 0.8.1
+Bug List:
+1. Error Handling
+2. No Donation page
+3. Contact page validation
