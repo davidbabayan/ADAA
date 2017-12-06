@@ -15,8 +15,8 @@ namespace ADAA
 
             routes.MapRoute(
                 name: "Default",
-                url: "{language}/{controller}/{action}/{id}",
-                defaults: new { language = "hy", controller = "Home", action = "Index", id = UrlParameter.Optional }
+                url: "{controller}/{action}",
+                defaults: new { controller = "Home", action = "Index" }
             );
         }
     }

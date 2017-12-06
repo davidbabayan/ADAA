@@ -120,6 +120,9 @@
   <data name="BoardName" xml:space="preserve">
     <value>Տնօրենների խորհուրդ</value>
   </data>
+  <data name="DirectorEmail" xml:space="preserve">
+    <value>Էլ․ Փոստ՝</value>
+  </data>
   <data name="DirectorName1" xml:space="preserve">
     <value>Պրոֆեսոր Միխաիլ Ի․ Աղաջանյան</value>
   </data>
@@ -131,6 +134,9 @@
   </data>
   <data name="DirectorName4" xml:space="preserve">
     <value>Ջեյն Լ․ Մահակյան</value>
+  </data>
+  <data name="DirectorPhone" xml:space="preserve">
+    <value>հեռախոս՝</value>
   </data>
   <data name="DirectorPosition1" xml:space="preserve">
     <value>Նախագահ</value>

@@ -13,19 +13,18 @@ namespace ADAA.Controllers
         // GET: Contact
         public ActionResult Index()
         {
+            ViewBag.Result = "";
             return View();
         }
 
         [HttpPost]
         public ActionResult Index(ContactViewModel model)
         {
+            bool res = false;
+            ViewBag.Result = res ? 
+                "<p class=\"bg-success text-center\">Message is sent!</p>" :
+                "<p class=\"bg-warning text-center\">Error occurred!</p>";
             return View();
-        }
-
-        [HttpGet]
-        public PartialViewResult SomeAction()
-        {
-            return PartialView();
         }
     }
 }

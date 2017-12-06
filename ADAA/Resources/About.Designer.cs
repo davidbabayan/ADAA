@@ -70,6 +70,15 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Email:.
+        /// </summary>
+        public static string DirectorEmail {
+            get {
+                return ResourceManager.GetString("DirectorEmail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Michail I. Agajanov, Professor, MD, PhD.
         /// </summary>
         public static string DirectorName1 {
@@ -102,6 +111,15 @@ namespace ADAA.Resources {
         public static string DirectorName4 {
             get {
                 return ResourceManager.GetString("DirectorName4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Phone:.
+        /// </summary>
+        public static string DirectorPhone {
+            get {
+                return ResourceManager.GetString("DirectorPhone", resourceCulture);
             }
         }
         

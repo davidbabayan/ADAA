@@ -42,8 +42,7 @@
                 </div>
                 <input class="btn btn-primary" type="submit" value="@Contact.SubmitValue" />
                 <div id="result" name="result" class="mt-4 mb-4">
-                    <p class="bg-success text-center" display="none">Message is sent!</p>
-                    <p class="bg-warning text-center" display="none">Error occurred!</p>
+                    @Html.Raw(@ViewBag.Result)
                 </div>
         </div>
     </div>

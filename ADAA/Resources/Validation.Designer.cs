@@ -115,6 +115,15 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Opps!... Something went wrong!.
+        /// </summary>
+        public static string ErrorMessage {
+            get {
+                return ResourceManager.GetString("ErrorMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Message.
         /// </summary>
         public static string MessageDisplayName {
@@ -200,7 +209,7 @@ namespace ADAA.Resources {
         {
             return ResourceManager.GetString("Validation", resourceCulture);
         }
-
+        
         /// <summary>
         ///   Looks up a localized string similar to //------------------------------------------------------------------------------
         ///// &lt;auto-generated&gt;

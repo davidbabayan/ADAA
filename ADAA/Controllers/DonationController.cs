@@ -7,15 +7,10 @@ using System.Web.Mvc;
 namespace ADAA.Controllers
 {
     [Internationalization]
-    public class ErrorController : Controller
+    public class DonationController : Controller
     {
-        // GET: Error
+        // GET: Contact
         public ActionResult Index()
-        {
-            return View();
-        }
-
-        public ActionResult NotFound()
         {
             return View();
         }

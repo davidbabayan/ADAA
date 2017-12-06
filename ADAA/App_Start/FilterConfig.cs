@@ -20,11 +20,18 @@ namespace ADAA
         public override void OnActionExecuting(ActionExecutingContext filterContext)
         {
 
-            string language = (string)filterContext.RouteData.Values["language"] ?? "hy";
+            if(LangInfo.Language == "" || LangInfo.Language == null)
+            {
+                LangInfo.Language = CultureInfo.CurrentCulture.TwoLetterISOLanguageName;
+            }
 
-            Thread.CurrentThread.CurrentCulture = CultureInfo.GetCultureInfo(language);
-            Thread.CurrentThread.CurrentUICulture = CultureInfo.GetCultureInfo(language);
-
+            Thread.CurrentThread.CurrentCulture = CultureInfo.GetCultureInfo(LangInfo.Language);
+            Thread.CurrentThread.CurrentUICulture = CultureInfo.GetCultureInfo(LangInfo.Language);
         }
+    }
+
+    public static class LangInfo
+    {
+        public static string Language { get; set; }
     }
 }

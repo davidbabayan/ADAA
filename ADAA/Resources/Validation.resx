@@ -135,6 +135,9 @@
   <data name="EmailMaxLengthError" xml:space="preserve">
     <value>The address is too long!</value>
   </data>
+  <data name="ErrorMessage" xml:space="preserve">
+    <value>Opps!... Something went wrong!</value>
+  </data>
   <data name="MessageDisplayName" xml:space="preserve">
     <value>Message</value>
   </data>

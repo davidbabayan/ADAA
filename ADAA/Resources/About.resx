@@ -120,6 +120,9 @@
   <data name="BoardName" xml:space="preserve">
     <value>Board of directors</value>
   </data>
+  <data name="DirectorEmail" xml:space="preserve">
+    <value>Email:</value>
+  </data>
   <data name="DirectorName1" xml:space="preserve">
     <value>Michail I. Agajanov, Professor, MD, PhD</value>
   </data>
@@ -131,6 +134,9 @@
   </data>
   <data name="DirectorName4" xml:space="preserve">
     <value>Jane L. Mahakian, PhD</value>
+  </data>
+  <data name="DirectorPhone" xml:space="preserve">
+    <value>Phone:</value>
   </data>
   <data name="DirectorPosition1" xml:space="preserve">
     <value>President</value>

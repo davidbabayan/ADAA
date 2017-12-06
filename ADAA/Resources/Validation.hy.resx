@@ -135,6 +135,9 @@
   <data name="EmailMaxLengthError" xml:space="preserve">
     <value>Էլ․ փոստի հասցեն չափազանց երկար է</value>
   </data>
+  <data name="ErrorMessage" xml:space="preserve">
+    <value>Ուփս․․․ Ինչ որ բան այն չէ։</value>
+  </data>
   <data name="MessageDisplayName" xml:space="preserve">
     <value>Նամակ</value>
   </data>

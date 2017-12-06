@@ -5,8 +5,13 @@ Bug list:
 3. No Error Page
 4. No donation page
 
-ADAA Version 0.8.1
+ADAA Version 0.8.2
 Bug List:
 1. Error Handling
 2. No Donation page
 3. Contact page validation
+
+ADAA Version 0.9
+Bug List:
+1. Contact Validation
+2. Donation Page
