@@ -2,6 +2,9 @@
 <html>
 <head>
     <meta charset="utf-8" />
+    <meta name="description" content="Official website of ADAA!">
+    <meta name="application-name" content="ADAA Officail website" />
+    <meta name="author" content="ADAA">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewBag.Title - @ADAA.Resources.Layout.SiteName</title>
     @Styles.Render("~/Content/css")
@@ -19,7 +22,7 @@
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">@Html.ActionLink(@ADAA.Resources.Layout.MenuHome, "Index", "Home", routeValues: null, htmlAttributes: new { @class = "nav-link" })</li>
                     <li class="nav-item">@Html.ActionLink(@ADAA.Resources.Layout.MenuService, "Index", "Service", routeValues: null, htmlAttributes: new { @class = "nav-link" })</li>
-                    <li class="nav-item">@Html.ActionLink(@ADAA.Resources.Layout.MenuMembership, "Index", "Membership", routeValues: null, htmlAttributes: new { @class = "nav-link" })</li>
+                    <li class="nav-item">@Html.ActionLink(@ADAA.Resources.Layout.MenuJoinUs, "Index", "JoinUs", routeValues: null, htmlAttributes: new { @class = "nav-link" })</li>
                     <li class="nav-item">@Html.ActionLink(@ADAA.Resources.Layout.MenuAbout, "Index", "About", routeValues: null, htmlAttributes: new { @class = "nav-link" })</li>
                     <li class="nav-item">@Html.ActionLink(@ADAA.Resources.Layout.MenuContact, "Index", "Contact", routeValues: null, htmlAttributes: new { @class = "nav-link" })</li>
                     <li class="nav-item">@Html.ActionLink("ENG", "TurnLang", "Home", routeValues: new { lang = "en" }, htmlAttributes: new { @class = "nav-link" })</li>

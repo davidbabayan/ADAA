@@ -132,8 +132,8 @@
   <data name="MenuHome" xml:space="preserve">
     <value>Home</value>
   </data>
-  <data name="MenuMembership" xml:space="preserve">
-    <value>Membership</value>
+  <data name="MenuJoinUs" xml:space="preserve">
+    <value>Join Us</value>
   </data>
   <data name="MenuService" xml:space="preserve">
     <value>Services</value>

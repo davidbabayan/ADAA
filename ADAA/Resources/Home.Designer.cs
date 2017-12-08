@@ -106,7 +106,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Informing about деменции, in particular about Alzheimer&apos;s disease,.
+        ///   Looks up a localized string similar to Informing about dementia, in particular about Alzheimer&apos;s disease,.
         /// </summary>
         public static string MissionListItem1 {
             get {
@@ -205,7 +205,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Alzheimers Disease Armenian Association.
         /// </summary>
         public static string SloganBig {
             get {

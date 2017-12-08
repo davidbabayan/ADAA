@@ -1,0 +1,56 @@
+﻿@using ADAA.Resources
+@{
+    ViewBag.Title = JoinUs.Title;
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-12 col-md-6 col-lg-6 col-xl-6 text-center mt-xl-5 mt-lg-5 mt-3">
+            <div class="mt-lg-5 mt-xl-5"></div>
+            <h1 class="">@JoinUs.Slogan</h1>
+        </div>
+        <div class="col-12 col-md-6 col-lg-6 col-xl-6 mt-3">
+            <img src="~/Assets/joinus.jpg" width="100%" height="auto" />
+        </div>
+    </div>
+    <hr />
+    <div class="row">
+        <div class="col-12 text-center mt-3 mb-5">
+            <h2 class="font-weight-bold">@JoinUs.Subtitle</h2>
+        </div>
+        <hr />
+        <div class="col-12 col-md-4 col-lg-4 col-xl-4 bg-light pt-2 pb-2 pt-md-0 pt-lg-0 pt-xl-0 pb-md-0 pb-lg-0 pb-xl-0">
+            <div class="p-1">
+                <h3 class="text-center">@JoinUs.Subheading1</h3>
+                <p>
+                    @Html.Raw(@JoinUs.Paragraph1)
+                </p>
+                <h3 class="text-right">
+                    <a class="badge badge-secondary">@JoinUs.Button1</a>
+                </h3>
+            </div>
+        </div> 
+        <div class="col-12 col-md-4 col-lg-4 col-xl-4 bg-light border-two-side pt-2 pb-2 pt-md-0 pt-lg-0 pt-xl-0 pb-md-0 pb-lg-0 pb-xl-0">
+            <div class="p-1">
+                <h3 class="text-center">@JoinUs.Subheading2</h3>
+                <p>
+                    @Html.Raw(@JoinUs.Paragraph2)
+                </p>
+                <h3 class="text-right">
+                    <a class="badge badge-secondary">@JoinUs.Button2</a>
+                </h3>
+            </div>
+        </div>
+        <div class="col-12 col-md-4 col-lg-4 col-xl-4 bg-light pt-2 pb-2 pt-md-0 pt-lg-0 pt-xl-0 pb-md-0 pb-lg-0 pb-xl-0">
+            <div class="p-1">
+                <h3 class="text-center">@JoinUs.Subheading3</h3>
+                <p>
+                    @Html.Raw(@JoinUs.Paragraph3)
+                </p>
+                <h3 class="text-right">
+                    @Html.ActionLink(JoinUs.Button3, "Index", "Membership", routeValues: null, htmlAttributes: new { @class = "badge badge-secondary" })
+                </h3>
+            </div>
+        </div>
+    </div>
+</div>

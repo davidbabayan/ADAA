@@ -7,7 +7,7 @@ using System.Web.Mvc;
 namespace ADAA.Controllers
 {
     [Internationalization]
-    public class DonationController : Controller
+    public class JoinUsController : Controller
     {
         // GET: Contact
         public ActionResult Index()

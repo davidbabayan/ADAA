@@ -144,7 +144,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Controllers\DonationController.cs" />
+    <Compile Include="Controllers\JoinUsController.cs" />
     <Compile Include="Controllers\ErrorController.cs" />
     <Compile Include="Controllers\MembershipController.cs" />
     <Compile Include="Controllers\ServiceController.cs" />
@@ -170,6 +170,16 @@
     </Compile>
     <Compile Include="Resources\Contact.hy.Designer.cs">
       <DependentUpon>Contact.hy.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Resources\JoinUs.Designer.cs">
+      <DependentUpon>JoinUs.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Resources\JoinUs.hy.Designer.cs">
+      <DependentUpon>JoinUs.hy.resx</DependentUpon>
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
     </Compile>
@@ -236,6 +246,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\cover.png" />
+    <Content Include="Assets\joinus.jpg" />
     <Content Include="Assets\ProfesorGevoryan.png" />
     <Content Include="Assets\ProfesorAghajanov.png" />
     <Content Include="Assets\ProfesorMahakian.png" />
@@ -301,7 +312,7 @@
     <Content Include="Views\Membership\Index.cshtml" />
     <Content Include="Views\Error\Index.cshtml" />
     <Content Include="Views\Error\NotFound.cshtml" />
-    <Content Include="Views\Donation\Index.cshtml" />
+    <Content Include="Views\JoinUs\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -319,6 +330,14 @@
     <EmbeddedResource Include="Resources\Contact.hy.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Contact.hy.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\JoinUs.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>JoinUs.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\JoinUs.hy.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>JoinUs.hy.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Resources\Membership.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>

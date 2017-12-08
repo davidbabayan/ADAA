@@ -106,11 +106,11 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Membership.
+        ///   Looks up a localized string similar to Join Us.
         /// </summary>
-        public static string MenuMembership {
+        public static string MenuJoinUs {
             get {
-                return ResourceManager.GetString("MenuMembership", resourceCulture);
+                return ResourceManager.GetString("MenuJoinUs", resourceCulture);
             }
         }
         

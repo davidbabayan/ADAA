@@ -15,3 +15,8 @@ ADAA Version 0.9
 Bug List:
 1. Contact Validation
 2. Donation Page
+
+ADAA Version 0.9.2
+Bug List:
+1. Contact Validation
+2. Donation button

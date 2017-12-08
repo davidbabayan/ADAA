@@ -58,6 +58,10 @@ h2.display-4 {
     h2.display-4 {
         font-size: 3rem;
     }
+    .border-two-side {
+        border-right: 1px solid gray;
+        border-left: 1px solid grey;
+    }
 }
 
 .fix {
@@ -65,4 +69,15 @@ h2.display-4 {
     left: 0;
     bottom: 0;
     width: 100%;
+}
+
+@media (max-width: 991px) {
+    .border-two-side {
+        border-top: 1px solid gray;
+        border-bottom: 1px solid grey;
+    }
+}
+
+.navbar-collapse.collapse.in {
+    display: block !important;
 }
