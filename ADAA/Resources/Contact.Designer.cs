@@ -61,56 +61,11 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Yerevan.
-        /// </summary>
-        public static string CityPlaceholder {
-            get {
-                return ResourceManager.GetString("CityPlaceholder", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Armenia.
-        /// </summary>
-        public static string CountryPlaceholder {
-            get {
-                return ResourceManager.GetString("CountryPlaceholder", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Feel free to contact us any time..
         /// </summary>
         public static string Header {
             get {
                 return ResourceManager.GetString("Header", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Your message here.
-        /// </summary>
-        public static string MessagePlaceholder {
-            get {
-                return ResourceManager.GetString("MessagePlaceholder", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Armen Avagimyan.
-        /// </summary>
-        public static string NamePlaceholder {
-            get {
-                return ResourceManager.GetString("NamePlaceholder", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Send.
-        /// </summary>
-        public static string SubmitValue {
-            get {
-                return ResourceManager.GetString("SubmitValue", resourceCulture);
             }
         }
         

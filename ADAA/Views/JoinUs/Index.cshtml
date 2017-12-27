@@ -37,7 +37,7 @@
                     @Html.Raw(@JoinUs.Paragraph2)
                 </p>
                 <h3 class="text-right">
-                    <a class="badge badge-secondary">@JoinUs.Button2</a>
+                    @Html.ActionLink(JoinUs.Button2, "Donate", "JoinUs", routeValues: null, htmlAttributes: new { @class = "badge badge-secondary" })
                 </h3>
             </div>
         </div>

@@ -1,0 +1,6 @@
+C:\Users\david\source\repos\ADAA\ADAA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\david\source\repos\ADAA\ADAA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\david\source\repos\ADAA\ADAA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\david\source\repos\ADAA\ADAA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\david\source\repos\ADAA\ADAA\bin\roslyn\System.IO.Compression.dll
+C:\Users\david\source\repos\ADAA\ADAA\bin\roslyn\VBCSCompiler.exe

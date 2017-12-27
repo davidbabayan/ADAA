@@ -1,0 +1,32 @@
+﻿@using ADAA.Resources
+@{
+    ViewBag.Title = Donate.Title;
+}
+
+<div class="mt-5 mb-5">
+    <h2 class="text-center mb-5">@Donate.Heading</h2>
+    <div class="container">
+        <div class="row">
+            <div class="col-12col-lg-6 col-xl-6 mt-5">
+                <p>
+                    @Donate.Paragraph1
+                </p>
+                <p>
+                    @Donate.BankAccount <strong>@Donate.BankAccountNumber</strong>
+                </p>
+                <p>
+                    @Donate.Beneficiary <strong>@Donate.BeneficiaryName</strong>
+                </p>
+                <p>
+                    @Donate.Bank <strong>@Donate.BankName</strong>
+                </p>
+                <p>
+                    @Donate.FurtherInfo <a href="mailto:michail.aghajanov@meduni.am">@Donate.Agahajanov</a> @Donate.Ending
+                </p>
+            </div>
+            <div class="col-lg-6 col-xl-6 mt-5 mt-lg-0 mt-xl-0">
+                <img alt="donations" src="~/Assets/Donations.jpg" width="100%" height="auto" />
+            </div>
+        </div>
+    </div>
+</div>

@@ -117,23 +117,8 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CityPlaceholder" xml:space="preserve">
-    <value>Երևան</value>
-  </data>
-  <data name="CountryPlaceholder" xml:space="preserve">
-    <value>Հայաստան</value>
-  </data>
   <data name="Header" xml:space="preserve">
     <value>Ազատ զգացեք գրելու մեզ ցանկացած ժամանակ։</value>
-  </data>
-  <data name="MessagePlaceholder" xml:space="preserve">
-    <value>Ձեր նամակը այստեղ</value>
-  </data>
-  <data name="NamePlaceholder" xml:space="preserve">
-    <value>Արմեն Ավագյան</value>
-  </data>
-  <data name="SubmitValue" xml:space="preserve">
-    <value>Ուղարկել</value>
   </data>
   <data name="Title" xml:space="preserve">
     <value>Գրեք մեզ</value>

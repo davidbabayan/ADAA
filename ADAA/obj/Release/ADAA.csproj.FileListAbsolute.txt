@@ -111,3 +111,5 @@ C:\Users\david\source\repos\ADAA\ADAA\obj\Release\ADAA.Resources.Contact.hy.reso
 C:\Users\david\source\repos\ADAA\ADAA\obj\Release\ADAA.Resources.Membership.hy.resources
 C:\Users\david\source\repos\ADAA\ADAA\obj\Release\ADAA.Resources.JoinUs.resources
 C:\Users\david\source\repos\ADAA\ADAA\obj\Release\ADAA.Resources.JoinUs.hy.resources
+C:\Users\david\source\repos\ADAA\ADAA\obj\Release\ADAA.Resources.Donate.resources
+C:\Users\david\source\repos\ADAA\ADAA\obj\Release\ADAA.Resources.Donate.hy.resources
