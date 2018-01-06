@@ -24,3 +24,6 @@ Bug List:
 ADAA Version 0.9.5
 Bug List:
 No Bugs!
+
+ADAA Version 1.0.0
+Release version

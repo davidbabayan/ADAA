@@ -8,9 +8,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="og:title" content="@ViewBag.Title - @ADAA.Resources.Layout.SiteName" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="" />
-    <meta property="og:image" content="" />
+    <meta property="og:image" content="/Assets/Icon.jpeg" />
     <meta property="og:description" content="The Armenian Association of Alzheimer's Disease (АААD) is the public noncommercial organization which has been based in 2002." /> 
+    <link rel="apple-touch-icon" sizes="57x57" href="/Icons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/Icons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/Icons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/Icons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/Icons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/Icons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/Icons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/Icons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/Icons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/Icons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/Icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/Icons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/Icons/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
     <title>@ViewBag.Title - @ADAA.Resources.Layout.SiteName</title>
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
@@ -19,7 +35,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
         <div class="container">
-            @Html.ActionLink(@ADAA.Resources.Layout.SiteName, "Index", "Home", new { @class = "navbar-brand", })
+            @Html.ActionLink(@ADAA.Resources.Layout.SiteName, "Index", "Home", routeValues: null, htmlAttributes: new { @class = "navbar-brand", })
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
