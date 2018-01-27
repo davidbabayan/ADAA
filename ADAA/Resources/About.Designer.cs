@@ -79,7 +79,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Michail I. Agajanov, Professor, MD, PhD.
+        ///   Looks up a localized string similar to Professor Michail I. Aghajanov, MD. President.
         /// </summary>
         public static string DirectorName1 {
             get {
@@ -88,7 +88,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Hovhannes M. Manvelyan, Professor, MD, PhD.
+        ///   Looks up a localized string similar to Hovhannes M. Manvelyan, Professor, MD, Ph.D..
         /// </summary>
         public static string DirectorName2 {
             get {
@@ -97,7 +97,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Artashes G. Gevorgyan, PhD.
+        ///   Looks up a localized string similar to Artashes G. Gevorgyan, Ph.D..
         /// </summary>
         public static string DirectorName3 {
             get {
@@ -106,7 +106,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Jane L. Mahakian, PhD.
+        ///   Looks up a localized string similar to Jane L. Mahakian, Ph.D..
         /// </summary>
         public static string DirectorName4 {
             get {
@@ -151,7 +151,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Head of the ADAA USA Branch.
+        ///   Looks up a localized string similar to Head of ADAA USA.
         /// </summary>
         public static string DirectorPosition4 {
             get {
@@ -232,7 +232,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The Armenian Association of Alzheimer&apos;s Disease /АААD/is the public noncommercial organization which has been based in 2002 by professor Michael I. Aghajanov..
+        ///   Looks up a localized string similar to The Armenian Association of Alzheimer’s Disease (ADAA) was founded in 2002 by Dr. Michail I. Aghajanov..
         /// </summary>
         public static string Paragraph1 {
             get {
@@ -241,7 +241,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to On March 2010 25 International Conference of Alzheimer’s Disease International  in Tsessaloniki, Greece, the ADAA was recognized as a full member of Alzheimer’s Disease International, an International federation of 76 Alzheimer’s associations around the world..
+        ///   Looks up a localized string similar to On March 2010, at the International Conference of Alzheimer’s Disease International  in Tsessaloniki, Greece, the ADAA was recognized as a full member of Alzheimer’s Disease International, an International federation of 76 Alzheimer’s associations around the world..
         /// </summary>
         public static string Paragraph2 {
             get {
@@ -250,29 +250,11 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Problem АDАA consists in decrease in morbidity by Alzheimer&apos;s disease both by means of use of last achievements of science, and by enhanced attention and care to separate persons, their families and to trustees. Provides direct services to sick people in Armenia and as supports Armenians of Diasporas..
-        /// </summary>
-        public static string Paragraph3 {
-            get {
-                return ResourceManager.GetString("Paragraph3", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Purpose АDАА.
+        ///   Looks up a localized string similar to Purpose of the Alzheimer’s Disease Armenian Association (ADAA).
         /// </summary>
         public static string Paragraph4 {
             get {
                 return ResourceManager.GetString("Paragraph4", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Creation АDАА is the most effective way of rendering assistance probably to the greater number of people..
-        /// </summary>
-        public static string Paragraph5 {
-            get {
-                return ResourceManager.GetString("Paragraph5", resourceCulture);
             }
         }
         

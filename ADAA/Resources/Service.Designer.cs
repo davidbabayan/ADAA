@@ -83,7 +83,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Medical researches. Clinical and epidemiological researches of mental frustration at aged people in Armenia..
+        ///   Looks up a localized string similar to Medical research. Clinical and epidemiological research projects..
         /// </summary>
         public static string OrderedList11 {
             get {
@@ -92,7 +92,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Groups of support: we have educational groups in Yerevan..
+        ///   Looks up a localized string similar to Support Groups: we have educational groups in Yerevan..
         /// </summary>
         public static string OrderedList2 {
             get {
@@ -101,8 +101,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Information service: our office is in Yerevan. We provide telephone consultations on places and telephone
-        ///            consultation for the members of family requiring for the information and advice..
+        ///   Looks up a localized string similar to Change to: Information services: Our office is in Yerevan. We provide telephone consultations with family members who are caring for a loved one with dementia..
         /// </summary>
         public static string OrderedList3 {
             get {
@@ -166,7 +165,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can find support from us. We offer next services:.
+        ///   Looks up a localized string similar to You can count on us for support. We offer the following services:.
         /// </summary>
         public static string Paragraph1 {
             get {

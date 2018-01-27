@@ -259,8 +259,8 @@
     <Content Include="Assets\Donations.jpg" />
     <Content Include="Assets\Icon.jpeg" />
     <Content Include="Assets\joinus.jpg" />
-    <Content Include="Assets\ProfesorGevoryan.png" />
     <Content Include="Assets\ProfesorAghajanov.png" />
+    <Content Include="Assets\ProfesorGevorgyan.jpg" />
     <Content Include="Assets\ProfesorHovhannisyan.jpg" />
     <Content Include="Assets\ProfesorMahakian.png" />
     <Content Include="Assets\wentWrong.jpg" />

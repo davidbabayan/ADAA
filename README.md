@@ -27,3 +27,7 @@ No Bugs!
 
 ADAA Version 1.0.0
 Release version
+
+ADAA Version 1.0.1
+Release version
+Text improvements are made!

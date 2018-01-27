@@ -88,7 +88,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Want to help us in our mission? Willing donate your time and power? Whould like to help us with organizational matters? Then apply to be our valunteer! Help us to bring required attention and knowledge to the world!.
+        ///   Looks up a localized string similar to Would you like to help us in our mission? Willing to donate your time?  Would you like to help us with organizational matters? Then apply to be a volunteer!.
         /// </summary>
         public static string Paragraph1 {
             get {
@@ -97,7 +97,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Can&apos;t participant in our activities but still interested in helping us? Feel free to donate money for us to fullfill our mission! We appreciate every contribution! Remember! Every penny is in count!.
+        ///   Looks up a localized string similar to Can&apos;t participant in our activities but still interested in helping us? Feel free to donate money for us to fullfill our mission! We appreciate every contribution! Remember! Every penny counts!.
         /// </summary>
         public static string Paragraph2 {
             get {
@@ -106,7 +106,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You&apos;re a doctor who do researches relating Alzheimer? Or medical student? Or maybe person who take care of person with disability? Check out our membership plans to get most of our services!.
+        ///   Looks up a localized string similar to Are you a physician or psychologist doing research or clinical work in the area of Alzheimer’s disease? Medical student? Or maybe a caregiver who is caring for a person with dementia?  Check out our membership plans!.
         /// </summary>
         public static string Paragraph3 {
             get {
@@ -115,7 +115,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Help us in supporting people with disabilities!.
+        ///   Looks up a localized string similar to Help us in supporting people with Alzheimer’s disease and other dementias!.
         /// </summary>
         public static string Slogan {
             get {
@@ -124,7 +124,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Join as a Valunteer.
+        ///   Looks up a localized string similar to Join as a Volunteer.
         /// </summary>
         public static string Subheading1 {
             get {

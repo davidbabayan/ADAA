@@ -124,16 +124,16 @@
     <value>Email:</value>
   </data>
   <data name="DirectorName1" xml:space="preserve">
-    <value>Michail I. Agajanov, Professor, MD, PhD</value>
+    <value>Professor Michail I. Aghajanov, MD. President</value>
   </data>
   <data name="DirectorName2" xml:space="preserve">
-    <value>Hovhannes M. Manvelyan, Professor, MD, PhD</value>
+    <value>Hovhannes M. Manvelyan, Professor, MD, Ph.D.</value>
   </data>
   <data name="DirectorName3" xml:space="preserve">
-    <value>Artashes G. Gevorgyan, PhD</value>
+    <value>Artashes G. Gevorgyan, Ph.D.</value>
   </data>
   <data name="DirectorName4" xml:space="preserve">
-    <value>Jane L. Mahakian, PhD</value>
+    <value>Jane L. Mahakian, Ph.D.</value>
   </data>
   <data name="DirectorPhone" xml:space="preserve">
     <value>Phone:</value>
@@ -148,7 +148,7 @@
     <value>Secretary</value>
   </data>
   <data name="DirectorPosition4" xml:space="preserve">
-    <value>Head of the ADAA USA Branch</value>
+    <value>Head of ADAA USA</value>
   </data>
   <data name="ListItem1" xml:space="preserve">
     <value>To study social and medical and biologic aspects of Alzheimer’s disease both in Republic Armenia, and behind its limits.</value>
@@ -175,19 +175,13 @@
     <value>To stimulate interaction between experts of a various structure within the framework of Association.</value>
   </data>
   <data name="Paragraph1" xml:space="preserve">
-    <value>The Armenian Association of Alzheimer's Disease /АААD/is the public noncommercial organization which has been based in 2002 by professor Michael I. Aghajanov.</value>
+    <value>The Armenian Association of Alzheimer’s Disease (ADAA) was founded in 2002 by Dr. Michail I. Aghajanov.</value>
   </data>
   <data name="Paragraph2" xml:space="preserve">
-    <value>On March 2010 25 International Conference of Alzheimer’s Disease International  in Tsessaloniki, Greece, the ADAA was recognized as a full member of Alzheimer’s Disease International, an International federation of 76 Alzheimer’s associations around the world.</value>
-  </data>
-  <data name="Paragraph3" xml:space="preserve">
-    <value>Problem АDАA consists in decrease in morbidity by Alzheimer's disease both by means of use of last achievements of science, and by enhanced attention and care to separate persons, their families and to trustees. Provides direct services to sick people in Armenia and as supports Armenians of Diasporas.</value>
+    <value>On March 2010, at the International Conference of Alzheimer’s Disease International  in Tsessaloniki, Greece, the ADAA was recognized as a full member of Alzheimer’s Disease International, an International federation of 76 Alzheimer’s associations around the world.</value>
   </data>
   <data name="Paragraph4" xml:space="preserve">
-    <value>Purpose АDАА</value>
-  </data>
-  <data name="Paragraph5" xml:space="preserve">
-    <value>Creation АDАА is the most effective way of rendering assistance probably to the greater number of people.</value>
+    <value>Purpose of the Alzheimer’s Disease Armenian Association (ADAA)</value>
   </data>
   <data name="Title" xml:space="preserve">
     <value>About us</value>

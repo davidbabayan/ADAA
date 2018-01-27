@@ -106,7 +106,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Informing about dementia, in particular about Alzheimer&apos;s disease,.
+        ///   Looks up a localized string similar to Provide information about dementia, in particular about Alzheimer&apos;s disease,.
         /// </summary>
         public static string MissionListItem1 {
             get {
@@ -115,7 +115,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Informing about Armenian Associations of Alzheimer&apos;s disease,.
+        ///   Looks up a localized string similar to Provide information about the Alzheimer’s disease Armenian Association..
         /// </summary>
         public static string MissionListItem2 {
             get {
@@ -124,7 +124,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to To promote patients with деменцией, to their families and trustees..
+        ///   Looks up a localized string similar to To support people with Alzheimer’s disease and their families..
         /// </summary>
         public static string MissionListItem3 {
             get {
@@ -142,7 +142,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Alzheimer&apos;s disease for the first time has been described in 1906 by German neuropathologist Alois Altsgejmer.
+        ///   Looks up a localized string similar to Alzheimer&apos;s disease for the first time has been described in 1906 by German neuropathologist Dr. Alois Alzheimer.
         ///        Alzheimer&apos;s disease is the most widespread reason of dementia. Under the term &quot;dementia&quot; various progressing degenerative
         ///        brain syndromes which amaze memory, thinking, behavior and emotions are incorporated. Characteristic for dementia is:.
         /// </summary>
@@ -154,8 +154,7 @@ namespace ADAA.Resources {
         
         /// <summary>
         ///   Looks up a localized string similar to Dementia is not a normal component of ageing. It does not know neither social, nor economic, ethnic or geographical borders.
-        ///        Usually it is shown after 40-50 years, but earlier display of disease has been registered in 28 years. Though at each person
-        ///        it is in own way shown dementia, however all these patients are not capable to care of themselves and require the everyday constant help..
+        ///        Usually it is shown after 40-50 years, but earlier display of disease has been registered in 28 years. Every person with Alzheimer’s disease is different as the disease affects each person differently. Most people are eventually not capable of caring for themselves and require daily care..
         /// </summary>
         public static string Paragraph3 {
             get {
@@ -196,7 +195,7 @@ namespace ADAA.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to According to the international statistics in Armenia it should be totaled approximately 30 thousand patients with dementia..
+        ///   Looks up a localized string similar to There are an estimated 30 thousand people with Alzheimer’s disease in Armenia..
         /// </summary>
         public static string Paragraph7 {
             get {
